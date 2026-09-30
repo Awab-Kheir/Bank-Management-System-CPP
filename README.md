@@ -159,4 +159,22 @@ User passwords are stored using a simple reversible encoding mechanism for educa
 
 ## Screenshots
 
-Screenshots of the main application workflows will be added later.
+### Login
+
+![Bank Management System Login](screenshots/01-login.png)
+
+### Main Screen
+
+![Bank Management System Main Screen](screenshots/02-main-screen.png)
+
+### Client List
+
+![Bank Management System Client List](screenshots/03-client-list.png)
+
+### Transactions
+
+![Bank Management System Transactions](screenshots/04-transactions.png)
+
+### Currency Exchange
+
+![Bank Management System Currency Exchange](screenshots/05-currency-exchange.png)
